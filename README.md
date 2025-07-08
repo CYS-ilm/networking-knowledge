@@ -1,10 +1,31 @@
-CCNA 200 -301.switch and routing.
+# Networking Learning 
 
-Complete Notes.
-Include basic networking knowlwdge and 
-configuration of switch and router.
+## CCNA 
 
-note: proivde by my trainer of CCNA. 
-
-Networking Book for understand basic concept and sildes for revision.
-Lab task that practise.
+1- basics concepts 
+    network 
+    osi model
+    tolopogies
+    mac address
+    switch and router 
+    and more ....
+2- switch configuration
+    basic config , enable secret
+    trunk concept 
+    Spanning tree algorithm
+    config verify VLAN
+    layer 2 discovery.....
+3- router confguration
+    routing path set 
+    NAT
+    DHCP configure
+    ARP
+    security configure
+    OSPF
+    DNS
+    QoS........
+4- virtualization concept
+5- configure and verify ipv6
+6- wireless concept
+7- automate configurtion with python...
+    
