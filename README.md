@@ -38,4 +38,54 @@
 
 7- automate configurtion with python...
 
-    
+## Book chapter PDF 
+
+chapter 1- introduction.
+
+            data communication 
+            network
+            topology
+            protocols
+
+chapter 2- network  models
+
+            OSI model
+            tcp/ip model
+            peer to peer
+            hop to hop
+            source to distination
+
+chapter 7- transmission media
+
+            guided media
+            unguided media
+
+chapter 8- switching
+
+            circuit switch network
+            datgram network
+            virtual circuit network
+            structure of switch
+
+chapter 19- network layer: logical addressing
+
+            ipv4
+            NAT
+            ipv6
+
+chpater 21- network layer: addr mapping, error reporting, multicasting
+
+            ARP
+            ICMP
+            IGMP
+            ICMPv6
+            
+            
+
+## Lab task
+    contain files that complete from reading book
+
+## LAb files
+     contain files that complete on cisco , of CCNA task
+
+     
